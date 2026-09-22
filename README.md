@@ -1,1 +1,4 @@
-# remote-sensing-portfolio
+Evan
+衛星遙測應用與實習
+放課程作業
+了解衛星的應用、學習操作軟體
